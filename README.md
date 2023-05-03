@@ -3,7 +3,7 @@
   <p>
     I'm a Computer Science and Pure Mathematics student @ Yale University. <br>
   </p>
-  <img src="gifs/fighting-knight.gif" height="100"/>
+  <img src="gifs/fighting-knight.gif" height="150"/>
   <img src="gifs/flying-dragon.gif" width="300"/>
   <p>
     I'm very interested in machine learning, data analytics, trading, and web scraping. <br>
